@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kosenshou/heropoints-web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Privacy Policy
+# Privacy Policy
 
 The Purpose of this Privacy Policy
 
@@ -44,7 +44,7 @@ This policy covers the collection, use, access, sharing, retention, and disposal
 
 
 
-Why We Collect Personal Information
+### Why We Collect Personal Information
 
 We collect information so we can:
 
@@ -53,7 +53,7 @@ Work with our volunteers and communicate with them regarding our events;
 Review and continuously improve our services and channels, including but not limited to, our websites, social network accounts, and applications.
 
 
-What type of Information We Collect
+### What type of Information We Collect
 
 In the course of communicating with you, we may collect information, understanding that much of it is considered personal and sensitive.
 
@@ -65,7 +65,7 @@ Your mobile numbers
 Your e-mail address
 
 
-Where We Get This Information
+### Where We Get This Information
 
 We collect information only when you knowingly and voluntarily submit them to us. In general, we collect this information through:
 
@@ -79,7 +79,7 @@ We may use cookies and other available technology to remember your preferences a
 
 
 
-Who We Share Your Information With
+### Who We Share Your Information With
 
 We have set in place reasonable and appropriate processes and technologies to safeguard your personal information. We do not disclose or share your personal information without your permission, except when required by law or the appropriate government agencies. We do not rent, sell, or exchange your information.
 
@@ -88,7 +88,7 @@ We may share your personal information with authorized personnel and third-party
 
 Authorized personnel, including the staff and key volunteers during events.
 
-Third-party service providers:
+### Third-party service providers:
 
 payment gateway and information technology systems; 
 Government agencies, if we have a good-faith belief that sharing this information is necessary to detect, prevent, or otherwise address any legal issues under the laws of the Republic of the Philippines.
@@ -96,7 +96,7 @@ All staff and third-party service providers are held to strict confidentiality o
 
 
 
-How We Protect Your Information
+### How We Protect Your Information
 
 We have set up reasonable and appropriate organizational, physical, and technical safeguards for your personal information, protecting it from loss, misuse, or unauthorized processing.
 
@@ -104,15 +104,15 @@ We will take reasonable steps to destroy or de-identify personal information if 
 
 
 
-Updating Your Personal Information
+### Updating Your Personal Information
 
-If you would like to update your personal information, please send us an e-mail at hello@centtochange.com.
+If you would like to update your personal information, please send us an e-mail at [hello@centtochange.com](hello@centtochange.com).
 
 
 
-Questions about our Privacy Policy
+### Questions about our Privacy Policy
 
-For questions or clarifications about our Privacy Policy, please e-mail us at hello@centtochange.com.
+For questions or clarifications about our Privacy Policy, please e-mail us at [hello@centtochange.com](hello@centtochange.com).
 
 
 
