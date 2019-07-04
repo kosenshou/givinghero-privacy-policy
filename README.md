@@ -14,9 +14,9 @@ This policy covers the collection, use, access, sharing, retention, and disposal
 
 We collect information so we can:
 
-Acknowledge, update, and communicate with our partners and subscribers about their support;
-Work with our volunteers and communicate with them regarding our events;
-Review and continuously improve our services and channels, including but not limited to, our websites, social network accounts, and applications.
+1. Acknowledge, update, and communicate with our partners and subscribers about their support;
+2. Work with our volunteers and communicate with them regarding our events;
+3. Review and continuously improve our services and channels, including but not limited to, our websites, social network accounts, and applications.
 
 
 ### What type of Information We Collect
@@ -25,22 +25,23 @@ In the course of communicating with you, we may collect information, understandi
 
 We collect contact details, such as the following, only when you knowingly and voluntarily submit them to us:
 
-Your full legal name
-Your phone numbers
-Your mobile numbers
-Your e-mail address
+- Your full legal name
+- Your phone numbers
+- Your mobile numbers
+- Your e-mail address
 
 
 ### Where We Get This Information
 
 We collect information only when you knowingly and voluntarily submit them to us. In general, we collect this information through:
 
-Personal, face-to-face contact;
-Phone calls;
-Message channels (including, but not limited to, SMS, Viber, and Facebook Messenger);
-Forms (including, but not limited to, sign-up sheets)
-Online channels (including but not limited to, social media, official websites, and applications); and
-Other channels in the course of rendering our services to you.
+- Personal, face-to-face contact;
+- Phone calls;
+- Message channels (including, but not limited to, SMS, Viber, and Facebook Messenger);
+- Forms (including, but not limited to, sign-up sheets)
+- Online channels (including but not limited to, social media, official websites, and applications); and
+- Other channels in the course of rendering our services to you.
+
 We may use cookies and other available technology to remember your preferences and customized settings and facilitate access to our channels. Information from cookies are not personally identifiable.
 
 
@@ -56,8 +57,9 @@ Authorized personnel, including the staff and key volunteers during events.
 
 ### Third-party service providers:
 
-payment gateway and information technology systems; 
-Government agencies, if we have a good-faith belief that sharing this information is necessary to detect, prevent, or otherwise address any legal issues under the laws of the Republic of the Philippines.
+- payment gateway and information technology systems; 
+- Government agencies, if we have a good-faith belief that sharing this information is necessary to detect, prevent, or otherwise address any legal issues under the laws of the Republic of the Philippines.
+
 All staff and third-party service providers are held to strict confidentiality obligations consistent with what is required by law, and will be held accountable if they fail to meet these obligations.
 
 
