@@ -26,10 +26,10 @@ In the course of communicating with you, we may collect information, understandi
 We collect contact details, such as the following, only when you knowingly and voluntarily submit them to us:
 
 - Your full legal name
-- Your phone numbers
-- Your mobile numbers
 - Your e-mail address
-
+- Your mobile number
+- Your gender
+- Your birthday
 
 ### Where We Get This Information
 
