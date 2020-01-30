@@ -2,7 +2,7 @@
 
 ### The Purpose of this Privacy Policy
 
-Hero Points values and respects your right to privacy. As we collect, use, store, and dispose information you provide us, we will faithfully steward this information and treat it with utmost respect and confidentiality.
+Giving Hero values and respects your right to privacy. As we collect, use, store, and dispose information you provide us, we will faithfully steward this information and treat it with utmost respect and confidentiality.
 
 We are committed to following general principles and rules of data privacy protection in the Philippines. This policy is in compliance with Republic Act No. 10173 or the Data Privacy Act of 2012 and its implementing rules and regulations.
 
@@ -74,10 +74,10 @@ We will take reasonable steps to destroy or de-identify personal information if 
 
 ### Updating Your Personal Information
 
-If you would like to update your personal information, please send us an e-mail at [heropointsapp@gmail.com](hello@centtochange.com).
+If you would like to update your personal information, please send us an e-mail at [givinghero@gmail.com](givinghero@gmail.com).
 
 
 
 ### Questions about our Privacy Policy
 
-For questions or clarifications about our Privacy Policy, please e-mail us at [heropointsapp@gmail.com](heropointsapp@gmail.com).
+For questions or clarifications about our Privacy Policy, please e-mail us at [givinghero@gmail.com](givinghero@gmail.com).
